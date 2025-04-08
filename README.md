@@ -14,7 +14,7 @@ You can install this script in any of the following popular script managers:
 ### Install for Tampermonkey
 
 1. [Install Tampermonkey](https://www.tampermonkey.net/) if you don't already have it.
-2. [Click here to install the script directly to Tampermonkey](https://github.com/LazyDevUserX/Udvash-To-YouTube-Auto-Redirect-Script/raw/main/redirect-to-youtube.js).
+2. [Click here to install the script directly to Tampermonkey](https://github.com/LazyDevUserX/Udvash-To-YouTube-Auto-Redirect-Script/raw/branch/main/redirect-to-youtube.js).
    - Tampermonkey will prompt you to add the script. Click **Add** to install it.
 
 ### Install for Violentmonkey
