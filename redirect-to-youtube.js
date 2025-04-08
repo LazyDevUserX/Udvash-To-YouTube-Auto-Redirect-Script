@@ -1,11 +1,9 @@
 // ==UserScript==
-// @name         Redirect to YouTube Video
-// @namespace    http://tampermonkey.net/
-// @version      1.3
-// @description  Automatically redirect to YouTube video if data attributes are found on the page.
-// @author       You
+// @name         Udvsah To Youtube Auto Redirect
+// @version      1.0
+// @description  Automatically redirect to YouTube video from online.udvash-unmesh.com
+// @author       LazyDevUserX
 // @match        https://online.udvash-unmesh.com/Routine/ClassDetails?*
-// @grant        none
 // ==/UserScript==
 
 (function() {
