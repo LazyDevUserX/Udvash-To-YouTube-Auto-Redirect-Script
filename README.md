@@ -16,20 +16,22 @@ To install this script, you can use any of the following popular script managers
 1. [Install Tampermonkey](https://www.tampermonkey.net/) if you don't have it installed.
 2. Click the button below to automatically add the script to Tampermonkey:
 
-   [![Install Tampermonkey Script](https://img.shields.io/badge/Install%20Tampermonkey%20Script-blue.svg)](https://github.com/yourusername/Tampermonkey-YouTube-Redirect/raw/main/redirect-to-youtube.js)
+   [![Install Tampermonkey Script](https://img.shields.io/badge/Install%20Tampermonkey%20Script-blue.svg)](https://github.com/LazyDevUserX/Udvash-To-YouTube-Auto-Redirect-Scrip/raw/main/redirect-to-youtube.js)
 
 3. After clicking the button, Tampermonkey will ask if you want to add the script. Click **Add**.
 
 ### Violentmonkey
 
 1. [Install Violentmonkey](https://violentmonkey.github.io/) if you don't have it installed.
-2. Open the script file [redirect-to-youtube.js](https://github.com/yourusername/Tampermonkey-YouTube-Redirect/raw/main/redirect-to-youtube.js).
+2. Open the script file [redirect-to-youtube.js](https://github.com/LazyDevUserX/Udvash-To-YouTube-Auto-Redirect-Scrip/raw/main/redirect-to-youtube.js)
+.
 3. Click the **Install** button in Violentmonkey.
 
 ### Greasemonkey
 
 1. [Install Greasemonkey](https://www.greasespot.net/) if you don't have it installed.
-2. Open the script file [redirect-to-youtube.js](https://github.com/yourusername/Tampermonkey-YouTube-Redirect/raw/main/redirect-to-youtube.js).
+2. Open the script file [redirect-to-youtube.js](https://github.com/LazyDevUserX/Udvash-To-YouTube-Auto-Redirect-Scrip/raw/main/redirect-to-youtube.js)
+.
 3. Click **Install** in the Greasemonkey interface.
 
 ## How It Works
