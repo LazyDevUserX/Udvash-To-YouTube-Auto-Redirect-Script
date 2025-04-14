@@ -35,7 +35,7 @@ You can install this script in any of the following popular script managers:
 
 If you prefer to manually install the script, you can download it by clicking the button below:
 
-[![Download Script](https://img.shields.io/badge/Download%20Script-green.svg?style=flat&logo=github)](https://github.com/LazyDevUserX/Udvash-To-YouTube-Auto-Redirect-Script/raw/main/redirect-to-youtube.js)
+[![Download Script](https://img.shields.io/badge/Download%20Script-green.svg?style=flat&logo=github)](blob:https://github.com/25b6ec41-eee2-4e9e-9325-c589c573d1d5)
 
 After downloading, you can manually add the script to your chosen userscript manager.
 
