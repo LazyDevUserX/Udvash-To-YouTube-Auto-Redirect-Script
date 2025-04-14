@@ -14,19 +14,19 @@ You can install this script in any of the following popular script managers:
 ### Install for Tampermonkey
 
 1. [Install Tampermonkey](https://www.tampermonkey.net/) if you don't already have it.
-2. [Click here to install the script directly to Tampermonkey](https://github.com/LazyDevUserX/Udvash-To-YouTube-Auto-Redirect-Script/raw/branch/main/redirect-to-youtube.js).
+2. [Click here to install the script directly to Tampermonkey](https://raw.githubusercontent.com/LazyDevUserX/Udvash-To-YouTube-Auto-Redirect-Script/refs/heads/main/redirect-to-youtube.js).
    - Tampermonkey will prompt you to add the script. Click **Add** to install it.
 
 ### Install for Violentmonkey
 
 1. [Install Violentmonkey](https://violentmonkey.github.io/) if you don't already have it.
-2. Open the script file [redirect-to-youtube.js](https://github.com/LazyDevUserX/Udvash-To-YouTube-Auto-Redirect-Script/raw/main/redirect-to-youtube.js).
+2. Open the script file [redirect-to-youtube.js](https://raw.githubusercontent.com/LazyDevUserX/Udvash-To-YouTube-Auto-Redirect-Script/refs/heads/main/redirect-to-youtube.js).
 3. Violentmonkey will prompt you to install the script. Click **Install**.
 
 ### Install for Greasemonkey
 
 1. [Install Greasemonkey](https://www.greasespot.net/) if you don't already have it.
-2. Open the script file [redirect-to-youtube.js](https://github.com/LazyDevUserX/Udvash-To-YouTube-Auto-Redirect-Script/raw/main/redirect-to-youtube.js).
+2. Open the script file [redirect-to-youtube.js](https://raw.githubusercontent.com/LazyDevUserX/Udvash-To-YouTube-Auto-Redirect-Script/refs/heads/main/redirect-to-youtube.js).
 3. Greasemonkey will prompt you to install the script. Click **Install**.
 
 ---
